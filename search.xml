@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>网站建成了!</title>
+    <url>/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</url>
+    <content><![CDATA[<h2 id="终于网站建成了-采用Ubuntu-Hexo构建"><a href="#终于网站建成了-采用Ubuntu-Hexo构建" class="headerlink" title="终于网站建成了!采用Ubuntu+Hexo构建!"></a><strong>终于网站建成了!采用Ubuntu+Hexo构建!</strong></h2><p>PS.Ubuntu真是个好东西!比Windows好太多了!就是有也软件依赖和硬件驱动不行,其他吊打Windows…</p>
+<p>我的Discuz网站:<a href="https://dz.mitsuha.vip/">https://dz.mitsuha.vip/</a><br>我的Wordpress网站:<a href="https://wp.mitsuha.vip/">https://wp.mitsuha.vip/</a></p>
+<p>我的Minecraft服务器:<a href="https://mc.mitsuha.vip/">https://mc.mitsuha.vip/</a></p>
+<p>以上服务器不是全天开放qwq</p>
+<hr>
+<p>主网站:<a href="https://www.mitsuha.vip/">https://www.mitsuha.vip/</a> (Powered by <strong>GITHUB</strong>!!!)</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>闲聊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Ubuntu自动换二次元壁纸</title>
+    <url>/2022/05/01/Ubuntu%E8%87%AA%E5%8A%A8%E6%8D%A2%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A3%81%E7%BA%B8/</url>
+    <content><![CDATA[<h2 id="获取壁纸"><a href="#获取壁纸" class="headerlink" title="获取壁纸"></a>获取壁纸</h2><p>假定在做各位都可以熟练编写Shell脚本awa<br>脚本如下</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="meta">#!/bin/bash</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">export</span> current_date=$(<span class="built_in">date</span> +%Y%m%d%H%M%s)</span><br><span class="line">wget -O /home/&#123;YOUR ACCOUNT&#125;/wallpaper/<span class="variable">$current_date</span>.jpg https://api.mtyqx.cn/api/random.php -nv</span><br><span class="line">gsettings <span class="built_in">set</span> org.gnome.desktop.background picture-uri <span class="string">&quot;file:///home/&#123;YOUR ACCOUNT&#125;/wallpaper/<span class="variable">$current_date</span>.jpg&quot;</span></span><br><span class="line">gsettings <span class="built_in">set</span> org.gnome.desktop.background picture-uri-dark <span class="string">&quot;file:///home/&#123;YOUR ACCOUNT&#125;/wallpaper/<span class="variable">$current_date</span>.jpg&quot;</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;Done!&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>在”&#x2F;home&#x2F;{YOUR ACCOUNT}”下创建一个文件夹”wallpaper”用于储存壁纸,然后.&#x2F;wallpaper.sh就可以享受<del>老涩批のUbuntu了</del>!</p>
+<h2 id="定时更换"><a href="#定时更换" class="headerlink" title="定时更换"></a>定时更换</h2><p>最后使用cron定时任务就可以达到定时更换壁纸了!</p>
+]]></content>
+      <categories>
+        <category>系统优化</category>
+      </categories>
+      <tags>
+        <tag>Ubuntu</tag>
+        <tag>个性化</tag>
+      </tags>
+  </entry>
+</search>

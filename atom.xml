@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mitsuha</title>
+  
+  <subtitle>Your name.</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-05-01T09:07:35.977Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Mitsuha</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ubuntu自动换二次元壁纸</title>
+    <link href="http://example.com/2022/05/01/Ubuntu%E8%87%AA%E5%8A%A8%E6%8D%A2%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A3%81%E7%BA%B8/"/>
+    <id>http://example.com/2022/05/01/Ubuntu%E8%87%AA%E5%8A%A8%E6%8D%A2%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A3%81%E7%BA%B8/</id>
+    <published>2022-05-01T08:58:05.000Z</published>
+    <updated>2022-05-01T09:07:35.977Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="系统优化" scheme="http://example.com/categories/%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="Ubuntu" scheme="http://example.com/tags/Ubuntu/"/>
+    
+    <category term="个性化" scheme="http://example.com/tags/%E4%B8%AA%E6%80%A7%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站建成了!</title>
+    <link href="http://example.com/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/"/>
+    <id>http://example.com/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</id>
+    <published>2022-05-01T06:59:00.000Z</published>
+    <updated>2022-05-01T09:07:47.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="闲聊" scheme="http://example.com/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+</feed>
