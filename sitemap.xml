@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</loc>
+    <loc>https://www.mitsuha.vip/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</loc>
     
     <lastmod>2022-05-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/05/01/Ubuntu%E8%87%AA%E5%8A%A8%E6%8D%A2%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A3%81%E7%BA%B8/</loc>
+    <loc>https://www.mitsuha.vip/2022/05/01/Ubuntu%E8%87%AA%E5%8A%A8%E6%8D%A2%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A3%81%E7%BA%B8/</loc>
     
     <lastmod>2022-05-01</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://www.mitsuha.vip/about/index.html</loc>
     
     <lastmod>2022-05-01</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://www.mitsuha.vip/categories/index.html</loc>
     
     <lastmod>2022-05-01</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://www.mitsuha.vip/tags/index.html</loc>
     
     <lastmod>2022-05-01</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://www.mitsuha.vip/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,21 +56,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/Ubuntu/</loc>
+    <loc>https://www.mitsuha.vip/tags/Ubuntu/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E4%B8%AA%E6%80%A7%E5%8C%96/</loc>
+    <loc>https://www.mitsuha.vip/tags/%E4%B8%AA%E6%80%A7%E5%8C%96/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E9%97%B2%E8%81%8A/</loc>
+    <loc>https://www.mitsuha.vip/tags/%E9%97%B2%E8%81%8A/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -79,14 +79,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://www.mitsuha.vip/categories/%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://www.mitsuha.vip/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
