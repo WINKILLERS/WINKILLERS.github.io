@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>网站建成了!</title>
-    <url>/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</url>
-    <content><![CDATA[<h2 id="终于网站建成了-采用Ubuntu-Hexo构建"><a href="#终于网站建成了-采用Ubuntu-Hexo构建" class="headerlink" title="终于网站建成了!采用Ubuntu+Hexo构建!"></a><strong>终于网站建成了!采用Ubuntu+Hexo构建!</strong></h2><p>PS.Ubuntu真是个好东西!比Windows好太多了!就是有也软件依赖和硬件驱动不行,其他吊打Windows…</p>
-<p>我的Discuz网站:<a href="https://dz.mitsuha.vip/">https://dz.mitsuha.vip/</a><br>我的Wordpress网站:<a href="https://wp.mitsuha.vip/">https://wp.mitsuha.vip/</a></p>
-<p>我的Minecraft服务器:<a href="https://mc.mitsuha.vip/">https://mc.mitsuha.vip/</a></p>
-<p>以上服务器不是全天开放qwq</p>
-<hr>
-<p>主网站:<a href="https://www.mitsuha.vip/">https://www.mitsuha.vip/</a> (Powered by <strong>GITHUB</strong>!!!)</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>闲聊</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Ubuntu自动换二次元壁纸</title>
     <url>/2022/05/01/Ubuntu%E8%87%AA%E5%8A%A8%E6%8D%A2%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A3%81%E7%BA%B8/</url>
     <content><![CDATA[<h2 id="获取壁纸"><a href="#获取壁纸" class="headerlink" title="获取壁纸"></a>获取壁纸</h2><p>假定在做各位都可以熟练编写Shell脚本awa<br>脚本如下</p>
@@ -32,6 +15,23 @@
       <tags>
         <tag>Ubuntu</tag>
         <tag>个性化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站建成了!</title>
+    <url>/2022/05/01/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</url>
+    <content><![CDATA[<h2 id="终于网站建成了-采用Ubuntu-Hexo构建"><a href="#终于网站建成了-采用Ubuntu-Hexo构建" class="headerlink" title="终于网站建成了!采用Ubuntu+Hexo构建!"></a><strong>终于网站建成了!采用Ubuntu+Hexo构建!</strong></h2><p>PS.Ubuntu真是个好东西!比Windows好太多了!就是有也软件依赖和硬件驱动不行,其他吊打Windows…</p>
+<p>我的Discuz网站:<a href="https://dz.mitsuha.vip/">https://dz.mitsuha.vip/</a><br>我的Wordpress网站:<a href="https://wp.mitsuha.vip/">https://wp.mitsuha.vip/</a></p>
+<p>我的Minecraft服务器:<a href="https://mc.mitsuha.vip/">https://mc.mitsuha.vip/</a></p>
+<p>以上服务器不是全天开放qwq</p>
+<hr>
+<p>主网站:<a href="https://www.mitsuha.vip/">https://www.mitsuha.vip/</a> (Powered by <strong>GITHUB</strong>!!!)</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>闲聊</tag>
       </tags>
   </entry>
 </search>
