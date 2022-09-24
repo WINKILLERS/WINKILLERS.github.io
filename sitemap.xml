@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://winkillers.github.io/2022/09/24/test/</loc>
+    <loc>https://winkillers.github.io/2022/09/24/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</loc>
     
     <lastmod>2022-09-24</lastmod>
     
@@ -32,15 +32,6 @@
     <loc>https://winkillers.github.io/about/index.html</loc>
     
     <lastmod>2022-09-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://winkillers.github.io/2022/09/18/hello-world/</loc>
-    
-    <lastmod>2022-09-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
