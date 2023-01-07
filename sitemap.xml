@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://winkillers.github.io/404/index.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://winkillers.github.io/2022/09/24/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86/</loc>
     
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2023-01-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://winkillers.github.io/tags/index.html</loc>
+    <loc>https://winkillers.github.io/schedule/index.html</loc>
     
-    <lastmod>2022-09-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://winkillers.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2023-01-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,25 @@
   <url>
     <loc>https://winkillers.github.io/about/index.html</loc>
     
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://winkillers.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://winkillers.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-01-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,11 +58,25 @@
 
   <url>
     <loc>https://winkillers.github.io/</loc>
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2023-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://winkillers.github.io/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://winkillers.github.io/tags/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
