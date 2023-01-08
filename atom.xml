@@ -6,7 +6,7 @@
   <link href="https://winkillers.github.io/atom.xml" rel="self"/>
   
   <link href="https://winkillers.github.io/"/>
-  <updated>2023-01-08T11:13:42.192Z</updated>
+  <updated>2023-01-08T13:09:58.295Z</updated>
   <id>https://winkillers.github.io/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>马上放寒假了！</title>
+    <link href="https://winkillers.github.io/c5251337.html"/>
+    <id>https://winkillers.github.io/c5251337.html</id>
+    <published>2023-01-08T04:01:16.000Z</published>
+    <updated>2023-01-08T13:09:58.295Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这个元旦过得好…又是<em>新冠</em>又是<em>考试</em>的…我太难了。所以咕咕咕了好久qwq！</p><span id="more"></span><h2 id="寒假打算"><a href="#寒假打算" class="headerlink" title="寒假打算"></a>寒假打算</h2><ol><li>把blog写完</li><li>把KRedirector(文件重定向)写完并开源</li><li>还没想好qwq…</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;这个元旦过得好…又是&lt;em&gt;新冠&lt;/em&gt;又是&lt;em&gt;考试&lt;/em&gt;的…我太难了。所以咕咕咕了好久qwq！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://winkillers.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
     <title>网站建成了</title>
     <link href="https://winkillers.github.io/f2c9a820.html"/>
     <id>https://winkillers.github.io/f2c9a820.html</id>
     <published>2022-09-24T04:23:06.000Z</published>
-    <updated>2023-01-08T11:13:42.192Z</updated>
+    <updated>2023-01-08T13:04:02.332Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Thanks-to-Hexo"><a href="#Thanks-to-Hexo" class="headerlink" title="Thanks to Hexo"></a>Thanks to Hexo</h2><p>网站终于重新建好了，这次认真搞的qwq，应该会一直运行下去awa。<br>感谢<code>Hexo</code>和<code>Next</code>为本站提供技术支持awa。</p><span id="more"></span><h3 id="2023-x2F-1-x2F-8"><a href="#2023-x2F-1-x2F-8" class="headerlink" title="2023&#x2F;1&#x2F;8"></a>2023&#x2F;1&#x2F;8</h3><p>完善了<a href="/f2c9a820.html">About</a>界面！现在有：</p><ol><li>技能树</li><li>自我介绍</li><li>赞赏</li></ol><h3 id="2023-x2F-1-x2F-7"><a href="#2023-x2F-1-x2F-7" class="headerlink" title="2023&#x2F;1&#x2F;7"></a>2023&#x2F;1&#x2F;7</h3><p>完工！剩下的就是一些细节完善啦！</p>]]></content>
     
