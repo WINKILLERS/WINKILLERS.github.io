@@ -4,7 +4,16 @@
   <url>
     <loc>https://winkillers.github.io/c5251337.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://winkillers.github.io/404.html</loc>
+    
+    <lastmod>2023-01-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://winkillers.github.io/f2c9a820.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -55,19 +64,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://winkillers.github.io/404/index.html</loc>
-    
-    <lastmod>2023-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://winkillers.github.io/</loc>
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,18 +75,25 @@
   
   <url>
     <loc>https://winkillers.github.io/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winkillers.github.io/tags/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://winkillers.github.io/categories/%E7%81%8C%E6%B0%B4/</loc>
+    <lastmod>2023-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

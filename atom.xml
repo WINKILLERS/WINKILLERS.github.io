@@ -6,7 +6,7 @@
   <link href="https://winkillers.github.io/atom.xml" rel="self"/>
   
   <link href="https://winkillers.github.io/"/>
-  <updated>2023-01-08T13:12:32.480Z</updated>
+  <updated>2023-01-13T12:00:46.981Z</updated>
   <id>https://winkillers.github.io/</id>
   
   <author>
@@ -21,14 +21,17 @@
     <link href="https://winkillers.github.io/c5251337.html"/>
     <id>https://winkillers.github.io/c5251337.html</id>
     <published>2023-01-08T04:01:16.000Z</published>
-    <updated>2023-01-08T13:12:32.480Z</updated>
+    <updated>2023-01-13T12:00:46.981Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这个元旦过得好…又是<em>新冠</em>又是<em>考试</em>的…我太难了。所以咕咕咕了好久qwq！</p><span id="more"></span><h2 id="寒假打算"><a href="#寒假打算" class="headerlink" title="寒假打算"></a>寒假打算</h2><ol><li>把blog写完</li><li>把KRedirector(文件重定向)写完并开源</li><li>还没想好qwq…</li></ol><h2 id="Wishes"><a href="#Wishes" class="headerlink" title="Wishes"></a>Wishes</h2><ol><li>马上过生日辣！</li><li>考试顺利哇qwq</li></ol>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;这个元旦过得好…又是&lt;em&gt;新冠&lt;/em&gt;又是&lt;em&gt;考试&lt;/em&gt;的…我太难了。所以咕咕咕了好久qwq！&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2><p>这个元旦过得好…又是<em>新冠</em>又是<em>考试</em>的…我太难了。所以咕咕咕了好久qwq！</p><span id="more"></span><h2 id="寒假打算"><a class="markdownIt-Anchor" href="#寒假打算"></a> 寒假打算</h2><ol><li>把blog写完</li><li>把KRedirector(文件重定向)写完并开源</li><li>还没想好qwq…</li></ol><h2 id="wishes"><a class="markdownIt-Anchor" href="#wishes"></a> Wishes</h2><ol><li>马上过生日辣！</li><li>考试顺利哇qwq</li></ol><h2 id="updates"><a class="markdownIt-Anchor" href="#updates"></a> Updates</h2><h3 id="2023113"><a class="markdownIt-Anchor" href="#2023113"></a> 2023/1/13</h3><p>终于放寒假了！今天好忙…把宿舍的东西搬出来已经要命了，偏偏今天还下雨！直接变成<strong>落汤鸡</strong>了qwq！</p>]]></content>
     
     
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
+&lt;p&gt;这个元旦过得好…又是&lt;em&gt;新冠&lt;/em&gt;又是&lt;em&gt;考试&lt;/em&gt;的…我太难了。所以咕咕咕了好久qwq！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="灌水" scheme="https://winkillers.github.io/categories/%E7%81%8C%E6%B0%B4/"/>
     
     
     <category term="杂谈" scheme="https://winkillers.github.io/tags/%E6%9D%82%E8%B0%88/"/>
@@ -40,14 +43,18 @@
     <link href="https://winkillers.github.io/f2c9a820.html"/>
     <id>https://winkillers.github.io/f2c9a820.html</id>
     <published>2022-09-24T04:23:06.000Z</published>
-    <updated>2023-01-08T13:04:02.332Z</updated>
+    <updated>2023-01-13T11:06:42.198Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Thanks-to-Hexo"><a href="#Thanks-to-Hexo" class="headerlink" title="Thanks to Hexo"></a>Thanks to Hexo</h2><p>网站终于重新建好了，这次认真搞的qwq，应该会一直运行下去awa。<br>感谢<code>Hexo</code>和<code>Next</code>为本站提供技术支持awa。</p><span id="more"></span><h3 id="2023-x2F-1-x2F-8"><a href="#2023-x2F-1-x2F-8" class="headerlink" title="2023&#x2F;1&#x2F;8"></a>2023&#x2F;1&#x2F;8</h3><p>完善了<a href="/f2c9a820.html">About</a>界面！现在有：</p><ol><li>技能树</li><li>自我介绍</li><li>赞赏</li></ol><h3 id="2023-x2F-1-x2F-7"><a href="#2023-x2F-1-x2F-7" class="headerlink" title="2023&#x2F;1&#x2F;7"></a>2023&#x2F;1&#x2F;7</h3><p>完工！剩下的就是一些细节完善啦！</p>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Thanks-to-Hexo&quot;&gt;&lt;a href=&quot;#Thanks-to-Hexo&quot; class=&quot;headerlink&quot; title=&quot;Thanks to Hexo&quot;&gt;&lt;/a&gt;Thanks to Hexo&lt;/h2&gt;&lt;p&gt;网站终于重新建好了，这次认真搞的qwq，应该会一直运行下去awa。&lt;br&gt;感谢&lt;code&gt;Hexo&lt;/code&gt;和&lt;code&gt;Next&lt;/code&gt;为本站提供技术支持awa。&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<h2 id="thanks-to-hexo"><a class="markdownIt-Anchor" href="#thanks-to-hexo"></a> Thanks to Hexo</h2><p>网站终于重新建好了，这次认真搞的qwq，应该会一直运行下去awa。<br />感谢<code>Hexo</code>和<code>Next</code>为本站提供技术支持awa。</p><span id="more"></span><h3 id="202318"><a class="markdownIt-Anchor" href="#202318"></a> 2023/1/8</h3><p>完善了<a href="/f2c9a820.html">About</a>界面！现在有：</p><ol><li>技能树</li><li>自我介绍</li><li>赞赏</li></ol><h3 id="202317"><a class="markdownIt-Anchor" href="#202317"></a> 2023/1/7</h3><p>完工！剩下的就是一些细节完善啦！</p>]]></content>
     
     
+    <summary type="html">&lt;h2 id=&quot;thanks-to-hexo&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#thanks-to-hexo&quot;&gt;&lt;/a&gt; Thanks to Hexo&lt;/h2&gt;
+&lt;p&gt;网站终于重新建好了，这次认真搞的qwq，应该会一直运行下去awa。&lt;br /&gt;
+感谢&lt;code&gt;Hexo&lt;/code&gt;和&lt;code&gt;Next&lt;/code&gt;为本站提供技术支持awa。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="灌水" scheme="https://winkillers.github.io/categories/%E7%81%8C%E6%B0%B4/"/>
     
     
     <category term="杂谈" scheme="https://winkillers.github.io/tags/%E6%9D%82%E8%B0%88/"/>
