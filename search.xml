@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Redmi K20P KernelSU 历险记</title>
+    <url>/1849186c.html</url>
+    <content><![CDATA[<h3 id="前情提要"><a class="markdownIt-Anchor" href="#前情提要"></a> 前情提要</h3>
+<p>很早就听闻Root又出了一个SU方案:<code>KernelSU</code>,而且好像无法被检测.很厉害的样子,但无奈只支持5.x的内核,所以一直望而却步<br />
+最近(2023/1/16)看到了<code>KernelSU</code>被Backport到4.14了(垂死病中惊坐起),掏出K20P主力机,开始编译内核</p>
+<span id="more"></span>
+<h3 id="探索"><a class="markdownIt-Anchor" href="#探索"></a> 探索</h3>
+<h4 id="硬件需求"><a class="markdownIt-Anchor" href="#硬件需求"></a> 硬件需求</h4>
+<p>好像说硬件需求不是很高,我看了下<code>5.10</code>的<code>Github Action</code>,居然要半个小时!!!这么久我可是等不了,果断掏出<strong>橙之夏</strong>的服务器…(<strong>Special thanks to OrangeSummer!</strong>)</p>
+<h4 id="软件准备"><a class="markdownIt-Anchor" href="#软件准备"></a> 软件准备</h4>
+<h5 id="环境搭建"><a class="markdownIt-Anchor" href="#环境搭建"></a> 环境搭建</h5>
+<p>实体机<code>Ubuntu</code>,<code>apt</code>安装依赖</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install -y acl aptly bc bison build-essential busybox ca-certificates clang coreutils cpio crossbuild-essential-arm64 curl debian-archive-keyring debian-keyring dialog flex gawk gcc git gpg gzip initramfs-tools jq kmod libbison-dev libcrypto++-dev libelf-dev libfdt-dev libfile-fcntllock-perl libfl-dev liblz4-tool libncurses-dev libncurses5 libncurses5-dev libncursesw5-dev libpython2.7-dev libssl-dev libusb-1.0-0-dev lld llvm locales lz4 lzma lzop mtools ncurses-base ncurses-term ntpdate p7zip p7zip-full parallel patchutils pigz pixz pkg-config pv python2 python3 python3-dev python3-distutils rsync subversion swig tar udev unzip uuid uuid-dev uuid-runtime vim wget xz-utils zip zlib1g-dev zstd</span><br></pre></td></tr></table></figure>
+<p>我用的是<code>Pixel Experience 12 Plus</code>,内核是<code>Soviet Star</code><br />
+先clone内核:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/SOVIET-ANDROID/kernel_xiaomi_raphael.git</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>漫长的等待</p>
+</blockquote>
+<p>然后因为现在已经到<code>13.0</code>分支了,所以需要<code>checkout</code>到<code>dev/12.1</code></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git checkout dev/12.1</span><br></pre></td></tr></table></figure>
+<p>切换完分支后,需要引入<code>KernelSU</code></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> kernel_xiaomi_raphael</span><br><span class="line">curl -LSs <span class="string">&quot;https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh&quot;</span> | bash -</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>更多帮助请查看:<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3RpYW5uL0tlcm5lbFNVI2J1aWxk">https://github.com/tiann/KernelSU#build<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<h5 id="开始编译"><a class="markdownIt-Anchor" href="#开始编译"></a> 开始编译</h5>
+<p>终于到编译环节啦!兴冲冲地<code>make config</code>然后<code>make</code>,结果提示让我输入<code>Bitmask of available LITTLE CPUs</code>,找了一圈没发现答案.懵逼了…</p>
+<p>看到目录下有个<code>build.sh</code>抱着试试看的心态打开了…等了半天也没用…<br />
+本以为失败了打算放弃,无意间去<code>Telegram</code>问了一下,找到了个编译指南网址</p>
+<blockquote>
+<p><span class="exturl" data-url="aHR0cHM6Ly9yb290LmRpYW5hcy5jeW91L2tlcm5lbC8=">https://root.dianas.cyou/kernel/<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<p>根据上面链接里的方法,成功地编译出来啦!</p>
+<h4 id="后面的话"><a class="markdownIt-Anchor" href="#后面的话"></a> 后面的话</h4>
+<p>现在感觉<code>KernelSU</code>也还是不够完善…等以后换新手机了再折腾了,最后提前祝各位春节快乐,在春节的时候少搞机吧!</p>
+]]></content>
+      <categories>
+        <category>安卓</category>
+      </categories>
+      <tags>
+        <tag>安卓</tag>
+        <tag>Root</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>网站建成了</title>
     <url>/f2c9a820.html</url>
     <content><![CDATA[<h2 id="thanks-to-hexo"><a class="markdownIt-Anchor" href="#thanks-to-hexo"></a> Thanks to Hexo</h2>
